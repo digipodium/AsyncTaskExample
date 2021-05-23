@@ -1,2 +1,2 @@
 # AsyncTaskExample
-![timer task example](video/sample.gif)
+<img src="video/sample.gif" height="700">
