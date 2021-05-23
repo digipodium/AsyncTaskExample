@@ -1,2 +1,2 @@
 # AsyncTaskExample
-![timer task example](video\sample.gif)
+![timer task example](video/sample.gif)
